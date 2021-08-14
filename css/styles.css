@@ -70,3 +70,72 @@ p{
 #icon:hover{
     color:#ff4c68
 }
+
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+}
+
+#h2{
+    font-family: "Montserrat";
+    font-weight: 900;
+    color: white;
+    font-size: 4rem;
+    line-height:1.5;
+}
+
+#Pebbles{
+    color: white;
+    font-family: "Ubuntu";
+    font-size: 1.3rem;
+}
+
+#dog2{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%
+}
+
+#logo-press{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#h4{
+    font-family: "Montserrat";
+    font-weight: 900;
+    color:black;
+    font-size: 4rem;
+    line-height:1.5;
+}
+
+#row{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+#h5{
+    font-family: "Montserrat";
+    color: black;
+    font-size: 4rem;
+    margin-top:100px;
+    text-align: center;
+}
+
+#para{
+    font-size: 1.5rem;
+    text-align: center;
+    padding-bottom: 50px;
+}
