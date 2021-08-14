@@ -174,29 +174,10 @@ p{
     
 }
 
-#icon2{
-        
-    position:relative;
-    left:650px;
-    padding-left: 1%;
-    padding-right: 1%;
-    
-}
 
 #lastline{
-    position:absolute;
-    right:675px;
-    padding-top: 1%;
+    text-align: center;
 }
-
-
-
-
-
-
-
-
-
 
 
 
@@ -251,8 +232,7 @@ p{
     }
 
     #lastline{
-        position:absolute;
-        right:400px;
+        text-align: center;
     }
 
 }
